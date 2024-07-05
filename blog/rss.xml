@@ -4,7 +4,7 @@
         <title>Layotto Blog</title>
         <link>https://mosn.io/blog</link>
         <description>Layotto Blog</description>
-        <lastBuildDate>Fri, 05 Jul 2024 06:45:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 07:00:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[蚂蚁云原生应用运行时的探索和实践 - ArchSummit 上海]]></title>
             <link>https://mosn.io/blog/exploration-and-practice-of-antcloud-native-application-runtime-archsummit-shanghai</link>
             <guid>https://mosn.io/blog/exploration-and-practice-of-antcloud-native-application-runtime-archsummit-shanghai</guid>
-            <pubDate>Fri, 05 Jul 2024 06:45:53 GMT</pubDate>
+            <pubDate>Fri, 05 Jul 2024 07:00:37 GMT</pubDate>
             <description><![CDATA[Mesh 模式的引入是实现应用云原生的关键路径，蚂蚁集团已在内部实现大规模落地。随着 Message、DB、Cache Mesh 等更多的中间件能力的下沉，从 Mesh 演进而来的应用运行时将是中间件技术的未来形态。应用运行时旨在帮助开发人员快速的构建云原生应用，帮助应用和基础设施进一步解耦，而应用运行时最核心是 API 标准，期望社区一起共建。]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>Mesh 模式的引入是实现应用云原生的关键路径，蚂蚁集团已在内部实现大规模落地。随着 Message、DB、Cache Mesh 等更多的中间件能力的下沉，从 Mesh 演进而来的应用运行时将是中间件技术的未来形态。应用运行时旨在帮助开发人员快速的构建云原生应用，帮助应用和基础设施进一步解耦，而应用运行时最核心是 API 标准，期望社区一起共建。</p>
@@ -160,7 +160,7 @@
             <title><![CDATA[源码解析 4层流量治理，tcp流量dump]]></title>
             <link>https://mosn.io/blog/tcpcopy_code_analyze</link>
             <guid>https://mosn.io/blog/tcpcopy_code_analyze</guid>
-            <pubDate>Fri, 05 Jul 2024 06:45:53 GMT</pubDate>
+            <pubDate>Fri, 05 Jul 2024 07:00:37 GMT</pubDate>
             <description><![CDATA[作者简介：]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>作者简介：
@@ -201,7 +201,7 @@
             <title><![CDATA[MOSN 子项目 Layotto：开启服务网格+应用运行时新篇章]]></title>
             <link>https://mosn.io/blog/mosn-subproject-layotto-opening-a-new-chapter-in-service-grid-application-runtime</link>
             <guid>https://mosn.io/blog/mosn-subproject-layotto-opening-a-new-chapter-in-service-grid-application-runtime</guid>
-            <pubDate>Fri, 05 Jul 2024 06:45:53 GMT</pubDate>
+            <pubDate>Fri, 05 Jul 2024 07:00:37 GMT</pubDate>
             <description><![CDATA[作者简介：]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>作者简介：
@@ -464,7 +464,7 @@ Layotto 在目前主要支持 RPC、Config、Pub/Sub、Actuator 四大功能，�
             <title><![CDATA[源码解析 7层流量治理,接口限流]]></title>
             <link>https://mosn.io/blog/code/flowcontrol/flowcontrol_code_analyze</link>
             <guid>https://mosn.io/blog/code/flowcontrol/flowcontrol_code_analyze</guid>
-            <pubDate>Fri, 05 Jul 2024 06:45:53 GMT</pubDate>
+            <pubDate>Fri, 05 Jul 2024 07:00:37 GMT</pubDate>
             <description><![CDATA[作者简介：]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>作者简介：
@@ -523,7 +523,7 @@ Layotto 在目前主要支持 RPC、Config、Pub/Sub、Actuator 四大功能，�
             <title><![CDATA[Layotto 源码解析 —— 处理 RPC 请求]]></title>
             <link>https://mosn.io/blog/code/layotto-rpc</link>
             <guid>https://mosn.io/blog/code/layotto-rpc</guid>
-            <pubDate>Fri, 05 Jul 2024 06:45:53 GMT</pubDate>
+            <pubDate>Fri, 05 Jul 2024 07:00:37 GMT</pubDate>
             <description><![CDATA[本文主要以 Dubbo Json RPC 为例来分析 Layotto RPC 处理流程。]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>本文主要以 Dubbo Json RPC 为例来分析 Layotto RPC 处理流程。</p>
@@ -606,7 +606,7 @@ Layotto 在目前主要支持 RPC、Config、Pub/Sub、Actuator 四大功能，�
             <title><![CDATA[源码解析  layotto启动流程]]></title>
             <link>https://mosn.io/blog/code/start_process/start_process</link>
             <guid>https://mosn.io/blog/code/start_process/start_process</guid>
-            <pubDate>Fri, 05 Jul 2024 06:45:53 GMT</pubDate>
+            <pubDate>Fri, 05 Jul 2024 07:00:37 GMT</pubDate>
             <description><![CDATA[作者简介：]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>作者简介：
@@ -655,7 +655,7 @@ Layotto 在目前主要支持 RPC、Config、Pub/Sub、Actuator 四大功能，�
             <title><![CDATA[Layotto 源码解析 —— WebAssembly]]></title>
             <link>https://mosn.io/blog/code/webassembly</link>
             <guid>https://mosn.io/blog/code/webassembly</guid>
-            <pubDate>Fri, 05 Jul 2024 06:45:53 GMT</pubDate>
+            <pubDate>Fri, 05 Jul 2024 07:00:37 GMT</pubDate>
             <description><![CDATA[本文主要分析 Layotto 中 WASM 的相关实现和应用。]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>本文主要分析 Layotto 中 WASM 的相关实现和应用。</p>

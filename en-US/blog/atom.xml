@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mosn.io/en-US/blog</id>
     <title>Layotto Blog</title>
-    <updated>2024-07-05T06:45:53.000Z</updated>
+    <updated>2024-07-05T07:00:37.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mosn.io/en-US/blog"/>
     <subtitle>Layotto Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Ant Cloud Native Apps Exploring and Practice - ArchiSummit]]></title>
         <id>https://mosn.io/en-US/blog/exploration-and-practice-of-antcloud-native-application-runtime-archsummit-shanghai</id>
         <link href="https://mosn.io/en-US/blog/exploration-and-practice-of-antcloud-native-application-runtime-archsummit-shanghai"/>
-        <updated>2024-07-05T06:45:53.000Z</updated>
+        <updated>2024-07-05T07:00:37.000Z</updated>
         <summary type="html"><![CDATA[The introduction of the Mesh model is a key path to the application of clouds and ant groups have achieved mass landings internally.The sinking of more middleware capabilities, such as Message, DB, Cache Mesh and others, will be the future shape of intermediate technology when the app evolves from Mesh.Apps run to help developers construct cloud native apps quickly and to further decouple apps and infrastructure, while the app runs at the core of API standards, the community is expected to build together.]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>The introduction of the Mesh model is a key path to the application of clouds and ant groups have achieved mass landings internally.The sinking of more middleware capabilities, such as Message, DB, Cache Mesh and others, will be the future shape of intermediate technology when the app evolves from Mesh.Apps run to help developers construct cloud native apps quickly and to further decouple apps and infrastructure, while the app runs at the core of API standards, the community is expected to build together.</p>
@@ -165,7 +165,7 @@ started research last year while the cloud native app is running. The following 
         <title type="html"><![CDATA[Source Parse 4 Layer Traffic Governance, tcp traffic dump]]></title>
         <id>https://mosn.io/en-US/blog/tcpcopy_code_analyze</id>
         <link href="https://mosn.io/en-US/blog/tcpcopy_code_analyze"/>
-        <updated>2024-07-05T06:45:53.000Z</updated>
+        <updated>2024-07-05T07:00:37.000Z</updated>
         <summary type="html"><![CDATA[Author profile：]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>Author profile：
@@ -206,7 +206,7 @@ Giggon, is an open source community lover committed to embracing open sources.</
         <title type="html"><![CDATA[MOSN subproject Layotto：opens the service grid + new chapter when app runs]]></title>
         <id>https://mosn.io/en-US/blog/mosn-subproject-layotto-opening-a-new-chapter-in-service-grid-application-runtime</id>
         <link href="https://mosn.io/en-US/blog/mosn-subproject-layotto-opening-a-new-chapter-in-service-grid-application-runtime"/>
-        <updated>2024-07-05T06:45:53.000Z</updated>
+        <updated>2024-07-05T07:00:37.000Z</updated>
         <summary type="html"><![CDATA[Author profile：]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>Author profile：
@@ -469,7 +469,7 @@ gave a detailed presentation of the Layotto project and most importantly the pro
         <title type="html"><![CDATA[Source Parsing 7 Layer Traffic Governance, Interface Limit]]></title>
         <id>https://mosn.io/en-US/blog/code/flowcontrol/flowcontrol_code_analyze</id>
         <link href="https://mosn.io/en-US/blog/code/flowcontrol/flowcontrol_code_analyze"/>
-        <updated>2024-07-05T06:45:53.000Z</updated>
+        <updated>2024-07-05T07:00:37.000Z</updated>
         <summary type="html"><![CDATA[Author Profile：]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>Author Profile：
@@ -528,7 +528,7 @@ was a fester of an open source community committed to embracing open sources and
         <title type="html"><![CDATA[Layotto Source Parsing — Processing RPC requests]]></title>
         <id>https://mosn.io/en-US/blog/code/layotto-rpc</id>
         <link href="https://mosn.io/en-US/blog/code/layotto-rpc"/>
-        <updated>2024-07-05T06:45:53.000Z</updated>
+        <updated>2024-07-05T07:00:37.000Z</updated>
         <summary type="html"><![CDATA[This paper is based on the Dubbo Json RPC as an example of the Layotto RPC processing.]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>This paper is based on the Dubbo Json RPC as an example of the Layotto RPC processing.</p>
@@ -611,7 +611,7 @@ was a fester of an open source community committed to embracing open sources and
         <title type="html"><![CDATA[Source parsing layotto startup process]]></title>
         <id>https://mosn.io/en-US/blog/code/start_process/start_process</id>
         <link href="https://mosn.io/en-US/blog/code/start_process/start_process"/>
-        <updated>2024-07-05T06:45:53.000Z</updated>
+        <updated>2024-07-05T07:00:37.000Z</updated>
         <summary type="html"><![CDATA[Author Intro to：]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>Author Intro to：
@@ -660,7 +660,7 @@ Libin, <a href="https://github.com/ZLBer" target="_blank" rel="noopener noreferr
         <title type="html"><![CDATA[Layotto Source Parsing — WebAssembly]]></title>
         <id>https://mosn.io/en-US/blog/code/webassembly</id>
         <link href="https://mosn.io/en-US/blog/code/webassembly"/>
-        <updated>2024-07-05T06:45:53.000Z</updated>
+        <updated>2024-07-05T07:00:37.000Z</updated>
         <summary type="html"><![CDATA[This paper mainly analyses the relevant implementation and application of Layotto Middle WASM.]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>This paper mainly analyses the relevant implementation and application of Layotto Middle WASM.</p>
