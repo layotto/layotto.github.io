@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklayotto_docusaurus=self.webpackChunklayotto_docusaurus||[]).push([[1903],{180:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog"}')}}]);
