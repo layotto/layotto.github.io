@@ -4,7 +4,7 @@
         <title>Layotto Blog</title>
         <link>https://layotto.github.io/layotto/en-US/blog</link>
         <description>Layotto Blog</description>
-        <lastBuildDate>Mon, 08 Jul 2024 02:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 03:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en-US</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Ant Cloud Native Apps Exploring and Practice - ArchiSummit]]></title>
             <link>https://layotto.github.io/layotto/en-US/blog/exploration-and-practice-of-antcloud-native-application-runtime-archsummit-shanghai</link>
             <guid>https://layotto.github.io/layotto/en-US/blog/exploration-and-practice-of-antcloud-native-application-runtime-archsummit-shanghai</guid>
-            <pubDate>Mon, 08 Jul 2024 02:36:12 GMT</pubDate>
+            <pubDate>Mon, 08 Jul 2024 03:14:31 GMT</pubDate>
             <description><![CDATA[The introduction of the Mesh model is a key path to the application of clouds and ant groups have achieved mass landings internally.The sinking of more middleware capabilities, such as Message, DB, Cache Mesh and others, will be the future shape of intermediate technology when the app evolves from Mesh.Apps run to help developers construct cloud native apps quickly and to further decouple apps and infrastructure, while the app runs at the core of API standards, the community is expected to build together.]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>The introduction of the Mesh model is a key path to the application of clouds and ant groups have achieved mass landings internally.The sinking of more middleware capabilities, such as Message, DB, Cache Mesh and others, will be the future shape of intermediate technology when the app evolves from Mesh.Apps run to help developers construct cloud native apps quickly and to further decouple apps and infrastructure, while the app runs at the core of API standards, the community is expected to build together.</p>
@@ -166,7 +166,7 @@ started research last year while the cloud native app is running. The following 
             <title><![CDATA[Source Parse 4 Layer Traffic Governance, tcp traffic dump]]></title>
             <link>https://layotto.github.io/layotto/en-US/blog/tcpcopy_code_analyze</link>
             <guid>https://layotto.github.io/layotto/en-US/blog/tcpcopy_code_analyze</guid>
-            <pubDate>Mon, 08 Jul 2024 02:36:12 GMT</pubDate>
+            <pubDate>Mon, 08 Jul 2024 03:14:31 GMT</pubDate>
             <description><![CDATA[Author profile：]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>Author profile：
@@ -207,7 +207,7 @@ Giggon, is an open source community lover committed to embracing open sources.</
             <title><![CDATA[MOSN subproject Layotto：opens the service grid + new chapter when app runs]]></title>
             <link>https://layotto.github.io/layotto/en-US/blog/mosn-subproject-layotto-opening-a-new-chapter-in-service-grid-application-runtime</link>
             <guid>https://layotto.github.io/layotto/en-US/blog/mosn-subproject-layotto-opening-a-new-chapter-in-service-grid-application-runtime</guid>
-            <pubDate>Mon, 08 Jul 2024 02:36:12 GMT</pubDate>
+            <pubDate>Mon, 08 Jul 2024 03:14:31 GMT</pubDate>
             <description><![CDATA[Author profile：]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>Author profile：
@@ -470,7 +470,7 @@ gave a detailed presentation of the Layotto project and most importantly the pro
             <title><![CDATA[Source Parsing 7 Layer Traffic Governance, Interface Limit]]></title>
             <link>https://layotto.github.io/layotto/en-US/blog/code/flowcontrol/flowcontrol_code_analyze</link>
             <guid>https://layotto.github.io/layotto/en-US/blog/code/flowcontrol/flowcontrol_code_analyze</guid>
-            <pubDate>Mon, 08 Jul 2024 02:36:12 GMT</pubDate>
+            <pubDate>Mon, 08 Jul 2024 03:14:31 GMT</pubDate>
             <description><![CDATA[Author Profile：]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>Author Profile：
@@ -529,7 +529,7 @@ was a fester of an open source community committed to embracing open sources and
             <title><![CDATA[Layotto Source Parsing — Processing RPC requests]]></title>
             <link>https://layotto.github.io/layotto/en-US/blog/code/layotto-rpc</link>
             <guid>https://layotto.github.io/layotto/en-US/blog/code/layotto-rpc</guid>
-            <pubDate>Mon, 08 Jul 2024 02:36:12 GMT</pubDate>
+            <pubDate>Mon, 08 Jul 2024 03:14:31 GMT</pubDate>
             <description><![CDATA[This paper is based on the Dubbo Json RPC as an example of the Layotto RPC processing.]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>This paper is based on the Dubbo Json RPC as an example of the Layotto RPC processing.</p>
@@ -612,7 +612,7 @@ was a fester of an open source community committed to embracing open sources and
             <title><![CDATA[Source parsing layotto startup process]]></title>
             <link>https://layotto.github.io/layotto/en-US/blog/code/start_process/start_process</link>
             <guid>https://layotto.github.io/layotto/en-US/blog/code/start_process/start_process</guid>
-            <pubDate>Mon, 08 Jul 2024 02:36:12 GMT</pubDate>
+            <pubDate>Mon, 08 Jul 2024 03:14:31 GMT</pubDate>
             <description><![CDATA[Author Intro to：]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>Author Intro to：
@@ -661,7 +661,7 @@ Libin, <a href="https://github.com/ZLBer" target="_blank" rel="noopener noreferr
             <title><![CDATA[Layotto Source Parsing — WebAssembly]]></title>
             <link>https://layotto.github.io/layotto/en-US/blog/code/webassembly</link>
             <guid>https://layotto.github.io/layotto/en-US/blog/code/webassembly</guid>
-            <pubDate>Mon, 08 Jul 2024 02:36:12 GMT</pubDate>
+            <pubDate>Mon, 08 Jul 2024 03:14:31 GMT</pubDate>
             <description><![CDATA[This paper mainly analyses the relevant implementation and application of Layotto Middle WASM.]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>This paper mainly analyses the relevant implementation and application of Layotto Middle WASM.</p>
