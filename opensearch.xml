@@ -4,8 +4,8 @@
   <ShortName>Layotto</ShortName>
   <Description>Search Layotto</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://mosn.io/https://gw.alipayobjects.com/zos/bmw-prod/65518bfc-8ba5-4234-a5c5-2bc065e3a5f0.svg</Image>
-  <Url type="text/html" method="get" template="https://mosn.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://mosn.io/opensearch.xml" />
-  <moz:SearchForm>https://mosn.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://mosn.io/layotto/https://gw.alipayobjects.com/zos/bmw-prod/65518bfc-8ba5-4234-a5c5-2bc065e3a5f0.svg</Image>
+  <Url type="text/html" method="get" template="https://mosn.io/layotto/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://mosn.io/layotto/opensearch.xml" />
+  <moz:SearchForm>https://mosn.io/layotto/</moz:SearchForm>
 </OpenSearchDescription>
